@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "¡Escucha gran Musica!"
+  },
+  "manage": {
+    "my_songs": "Mis canciones"
+  },
+  "register": {
+    "TOS": "Terminos de Servicio",
+    "accept": "Yo acepto {0}"
+  },
+  "song": {
+    "comment_count": "Sin Comentarios | 1 Comentario | {count} Comentarios"
+  }
+}
